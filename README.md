@@ -7,6 +7,7 @@ I am passionate about decentralization and the advancement of blockchain technol
 Below are the Testnet and Mainnet Nodes I have participated in:
 
 Aptos (Validator, Incentivized)
+
 Aleo (Incentivized)
 
 Forta (Incentivized)
