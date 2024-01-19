@@ -43,7 +43,7 @@ Arbitrum (Mainnet)
 
 Starknet (Mainnet)
 
-Avail(Validator-Testnet)
+Avail(Validator-İncentivized)
 
 
 
