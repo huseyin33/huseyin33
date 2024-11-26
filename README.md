@@ -11,6 +11,14 @@ https://peertodev.com/
 
 Peertodev Co-Founder
 
+Other members
+
+https://github.com/akglali
+
+https://github.com/sultanguvenbas
+
+https://github.com/crazywriter1
+
 # Below are the Testnet and Mainnet Nodes I have participated in:
 
 Aptos (Validator, Incentivized)
